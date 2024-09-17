@@ -1,0 +1,25 @@
+.forma{
+    margin: 50px;
+    padding: 30px;
+    background-color: rgb(218, 255, 243);
+    border-radius: 50px;
+    border: dotted 5px rgb(150, 255, 206);
+    width: 300px;
+}
+.forma label{
+    font-size: 20px;
+    color: rgb(11, 138, 96);
+    margin-right: 15px;
+}
+.forma input{
+    border: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+}
+.forma .btn{
+    background-color: aquamarine;
+    border: none;
+    border-radius: 20px;
+    color: rgb(11, 138, 96);
+    font-size: 15px;
+}
